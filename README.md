@@ -1,3 +1,6 @@
+Dislocation-oxide interaction in Y2O3 embedded Fe: A molecular dynamics simulation study:"https://doi.org/10.1016/j.net.2019.07.011", https://www.sciencedirect.com/science/article/pii/S1738573319300543
+
+
 Fe–Y–O ZBL hybrid potential file (fe_y_o_zbl0904.table) derived from the pairwise interaction model of Hammond et al., J. Phys. Condens. Matter 25 (2013) 055402.
 It enables molecular dynamics (MD) simulations of oxide dispersion strengthened (ODS) steels, allowing investigation of:
 
@@ -25,4 +28,5 @@ computational-materials-science
 
 
 
-Here we have intial structure models by taking Fe BCC orientation (edge dislocation with b = a/2[111] in the (110) slip plane, axes set as [111], [–1-12], [1-10]), oxide sizes (2–6 nm), relaxation at 300 K, rigid top/bottom slabs with a mobile middle section, and shear speeds ~0.001/0.01/0.05 nm ps⁻¹ with stress–strain outpu
+Here we have intial structure models by taking Fe BCC orientation (edge dislocation with b = a/2[111] in the (110) slip plane, axes set as [111], [–1-12], [1-10]), oxide sizes (2–6 nm), relaxation at 300 K, rigid top/bottom slabs with a mobile middle section, and shear speeds ~0.001/0.01/0.05 nm ps⁻¹ with stress–strain outpuT
+
