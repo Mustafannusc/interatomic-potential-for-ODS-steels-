@@ -25,4 +25,4 @@ computational-materials-science
 
 
 
-
+Here we have intial structure models by taking Fe BCC orientation (edge dislocation with b = a/2[111] in the (110) slip plane, axes set as [111], [–1-12], [1-10]), oxide sizes (2–6 nm), relaxation at 300 K, rigid top/bottom slabs with a mobile middle section, and shear speeds ~0.001/0.01/0.05 nm ps⁻¹ with stress–strain outpu
